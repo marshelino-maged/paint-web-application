@@ -48,7 +48,7 @@ Designed object-oriented model was used with some design patterns to create pain
 - If you don’t have JDK 19, Download it or the IDE will ask you to if you want to download.
 - Run the main class
 - Download Node.js
-- From the terminal, install the Angular CLI globally with content_copy
+- From the terminal, install the Angular CLI globally with this command
  ```
 npm install -g @angular/cli.
 ```
@@ -58,7 +58,7 @@ npm install -g @angular/cli.
 ```
 ng serve –open.
 ```
-- **note:** you night need this command  
+ **note: ** you night need this command  
  ```
  npm install konva --save
 ```

@@ -15,12 +15,10 @@ Designed object-oriented model was used with some design patterns to create pain
     - Changing shapes’ fill color
     - Changing shapes’ border color
   - Delete shapes
-  - Copy
-  - paste
+  - Copy/paste
   - clear
-  - Undo
-  - Redo
-  - Save with chosen path in XML or JSON files.
+  - Undo/Redo
+  - Save and load with chosen path in XML or JSON files.
 
 
   

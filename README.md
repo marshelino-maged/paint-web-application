@@ -40,3 +40,19 @@ Designed object-oriented model was used with some design patterns to create pain
    stack to undo stack, or vice versa ,to allow making changes in some flags in one without 
    affecting the other, so we implemented clone functions in each class that override the
    clone function in the abstract parent class (Shapes). 
+   
+   
+##List of steps required to run our code: 
+- Open any IDE for java (IntelliJ, Eclipse, etc.).
+- Open backend folder from file>>open folder.
+- If you don’t have JDK 19, Download it or the IDE will ask you to if you want to download.
+- Run the main class
+- Download Node.js
+- From the terminal, install the Angular CLI globally with content_copy
+npm install -g @angular/cli.
+- Open VS Code or any id that can open angular.
+- Open frontend folder from file>>open folder.
+- Open terminal from terminal>>new terminal then write 
+np serve –open.
+note: you night need this command 
+-npm install konva --save

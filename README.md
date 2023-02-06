@@ -54,7 +54,7 @@ npm install -g @angular/cli.
 - Open frontend folder from file>>open folder.
 - Open terminal from terminal>>new terminal then write 
 np serve –open.
-- 	`rgb(R,G,B)` note: you night need this command  
+- 	rgb(255,0,0) note: you night need this command  
  ```
  npm install konva --save
 ```

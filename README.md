@@ -30,12 +30,12 @@ Designed object-oriented model was used with some design patterns to create pain
  ![This is an image](https://user-images.githubusercontent.com/96488115/216956638-124abe59-42f1-4b8b-94b3-629e9f27a2c9.png)
  
  ## Design patterns applied: 
- - ###### Factory design pattern:
+  ###### Factory design pattern:
     - We made a factory class to be responsible for creating the suitable shape using different 
    classes of shapes which inherit from an abstract class (Shapes). There is another class 
    (Controller) which is the client that has all information about the classes that will be 
    created, this class uses the factory class.
-- ###### Prototype design pattern:
+  ###### Prototype design pattern:
   - We used this pattern in undo/redo functions where we needed to clone shapes from redo
   stack to undo stack, or vice versa ,to allow making changes in some flags in one without 
   affecting the other, so we implemented clone functions in each class that override the

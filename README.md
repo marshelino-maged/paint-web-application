@@ -58,7 +58,7 @@ npm install -g @angular/cli.
 ```
 ng serve –open.
 ```
- **note: ** you night need this command  
+ **note:**  you night need this command  
  ```
  npm install konva --save
 ```

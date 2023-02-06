@@ -2,15 +2,15 @@
 Designed object-oriented model was used with some design patterns to create paint web application (using angular for frontend and java with spring boot framework for backend).
 #### features
 Feature:
- - • Free drawing
- - • Drawing shapes
-     - o Circle
-     - o Ellipse
-     - o Square
-     - o Rectangle
-     - o Triangle
-     - o Line segment
- - • Edit drawn shapes
+ - Free drawing
+ - Drawing shapes
+    - Circle
+    - Ellipse
+    - Square
+    - Rectangle
+    - Triangle
+    - Line segment
+ - Edit drawn shapes
     o Moving shapes by dragging
     o Resizing
     o Changing shapes’ fill color

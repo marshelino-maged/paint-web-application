@@ -42,7 +42,7 @@ Designed object-oriented model was used with some design patterns to create pain
    clone function in the abstract parent class (Shapes). 
    
    
-##List of steps required to run our code: 
+## List of steps required to run our code: 
 - Open any IDE for java (IntelliJ, Eclipse, etc.).
 - Open backend folder from file>>open folder.
 - If you don’t have JDK 19, Download it or the IDE will ask you to if you want to download.
@@ -55,4 +55,4 @@ npm install -g @angular/cli.
 - Open terminal from terminal>>new terminal then write 
 np serve –open.
 note: you night need this command 
--npm install konva --save
+- npm install konva --save

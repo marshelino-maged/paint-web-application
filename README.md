@@ -49,12 +49,16 @@ Designed object-oriented model was used with some design patterns to create pain
 - Run the main class
 - Download Node.js
 - From the terminal, install the Angular CLI globally with content_copy
+ ```
 npm install -g @angular/cli.
+```
 - Open VS Code or any id that can open angular.
 - Open frontend folder from file>>open folder.
 - Open terminal from terminal>>new terminal then write 
-np serve –open.
-- 	`rgb(255,0,0)` note: you night need this command  
+```
+ng serve –open.
+```
+- **note:** you night need this command  
  ```
  npm install konva --save
 ```

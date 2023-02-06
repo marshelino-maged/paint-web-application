@@ -1,7 +1,6 @@
 # paint-wep-application
 Designed object-oriented model was used with some design patterns to create paint web application (using angular for frontend and java with spring boot framework for backend).
-#### features
-Feature:
+#### features:
  - Free drawing
  - Drawing shapes
     - Circle
@@ -11,17 +10,17 @@ Feature:
     - Triangle
     - Line segment
  - Edit drawn shapes
-    o Moving shapes by dragging
-    o Resizing
-    o Changing shapes’ fill color
-    o Changing shapes’ border color
-  • Delete shapes
-  • Copy
-  • paste
-  • clear
-  • Undo
-  • Redo
-  • Save with chosen path in XML or JSON files.
+    - Moving shapes by dragging
+    - Resizing
+    - Changing shapes’ fill color
+    - Changing shapes’ border color
+  - Delete shapes
+  - Copy
+  - paste
+  - clear
+  - Undo
+  - Redo
+  - Save with chosen path in XML or JSON files.
 
 
   

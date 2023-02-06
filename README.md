@@ -56,3 +56,9 @@ npm install -g @angular/cli.
 np serve –open.
 - note: you night need this command  
 - `npm install konva --save`
+- Some basic Git commands are:
+```
+git status
+git add
+git commit
+```

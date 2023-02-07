@@ -60,7 +60,7 @@ ng serve –open.
  ```
  npm install konva --save
 ```
-## Snapshots of UI: 
+## Screenshot of UI: 
 ![image](https://user-images.githubusercontent.com/96488115/216964230-e52d3faf-8955-4d7e-98c4-0a11bf898ee2.png)
 ![image](https://user-images.githubusercontent.com/96488115/216964367-f3fc0d4c-2c8b-4baa-b56e-8f638f388369.png)
 ![image](https://user-images.githubusercontent.com/96488115/216964674-86db7d81-5d8a-46ab-9f3e-7ee29d0655d1.png)
